@@ -1,0 +1,5 @@
+your-project/
+  |- index.html
+  |- main.js
+  |- server.js
+  |- package.json
